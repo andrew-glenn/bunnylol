@@ -4,15 +4,6 @@ const COMMANDS = {
         url: "https://google.com/",
         searchurl: "https://www.google.com/search?q="
     },
-    fb: {
-        name: "Facebook",
-        url: "https://facebook.com/",
-        searchurl: "https://www.facebook.com/search/top/?q="
-    },
-    wa: {
-        name: "WhatsApp Web",
-        url: "https://web.whatsapp.com/"
-    },
     gm: {
         name: "Gmail",
         url: "https://mail.google.com/mail/u/0",
@@ -37,38 +28,6 @@ const COMMANDS = {
         name: "GitHub",
         url: "https://github.com/",
         searchurl: "https://www.github.com/search?q="
-    },
-    l: {
-        name: "Linkedin",
-        url: "https://linkedin.com/",
-    },
-    ig: {
-        name: "Instagram",
-        url: "https://instagram.com/",
-        searchurl: "https://instagram.com/"
-    },
-    n: {
-        name: "Netflix",
-        url: "https://netflix.com/",
-        searchurl: "https://www.netflix.com/search?q="
-    },
-    cal: {
-        name: "Google Calendar",
-        url: "https://calendar.google.com/calendar/r"
-    },
-    tr: {
-        name: 'Trello',
-        url: 'https://trello.com/'
-    },
-    th: {
-        name: 'Thesaurus',
-        url: 'https://www.thesaurus.com/',
-        searchurl: 'https://www.thesaurus.com/browse/'
-    },
-    cineb: {
-        name: 'cineb.net',
-        url: 'https://cineb.net/',
-        searchurl: 'https://cineb.net/search/'
     },
     DEFAULT: {
         name: "Default - Google Search",
