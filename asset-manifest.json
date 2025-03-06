@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bunnylol/static/css/main.3ae006d6.css",
+    "main.js": "/bunnylol/static/js/main.190a9136.js",
+    "index.html": "/bunnylol/index.html",
+    "main.3ae006d6.css.map": "/bunnylol/static/css/main.3ae006d6.css.map",
+    "main.190a9136.js.map": "/bunnylol/static/js/main.190a9136.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ae006d6.css",
+    "static/js/main.190a9136.js"
+  ]
+}
