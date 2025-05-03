@@ -30,9 +30,9 @@ const COMMANDS = {
         searchurl: "https://www.github.com/search?q="
     },
     DEFAULT: {
-        name: "Default - Google Search",
-        url: "https://google.com/",
-        searchurl: "https://www.google.com/search?q="
+        name: "Default - DDG Search",
+        url: "https://duckduckgo.com/",
+        searchurl: "https://www.duckduckgo.com/?q="
     }
 }
 
